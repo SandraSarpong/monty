@@ -1,14 +1,8 @@
 # 0x19. C - Stacks, Queues - LIFO, FIFO
 ## Tasks
-0. push, pall
-Implement the push and pall opcodes.
-1. pint
-Implement the pint opcode.
-2. pop
-Implement the pop opcode.
-3. swap
-Implement the swap opcode.
-4. add
-Implement the add opcode.
-5. nop
-Implement the nop opcode.
+0.  Push, Pall: Implement the push and pall opcodes.
+1.  Pint: Implement the pint opcode.
+2.  Pop: Implement the pop opcode.
+3.  Swap: Implement the swap opcode.
+4.  Add: Implement the add opcode.
+5.  Nop: Implement the nop opcode.
